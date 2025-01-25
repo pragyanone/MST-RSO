@@ -1,0 +1,6 @@
+voluntarily select 1-1 district each
+create network: node, edges
+limit: select hill district.. roads connecting district HQ, na pa HQ, ga pa HQ
+
+identify types of roads: AR, GR, ER
+
